@@ -1,4 +1,4 @@
-# Psych250Project
+# Convolutional Neural Net - Studying the Human Eye
 # Arjun Tambe / amtambe
 
 In the architecture of the human eye, there are physical limits on the number of connections between cells directly receiving visual data, and cells that process that data. More of those connections exist from the center (fovea) of the eye, than from more peripheral areas of the visual field, which means the human visual system has higher visual acuity in the center of the visual field than the periphery. The tradeoff, of course, is lower visual acuity in the periphery of the visual field. This project attempts to address why evolution selected this architecture by comparing the classification accuracy of a neural network on images that implement a retina-like model of the visual field, against images that implement a more standard model of the visual field. 
